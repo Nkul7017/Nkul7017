@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Mern Stack**
 
-- 🌱 I’m currently learning **Next Js , Flutter and React Native**
+- 🌱 I’m currently learning **Next Js , Flutter, React Native and data analyst tools**
 
-- 👨‍💻 All of my projects are available at [https://nakul-iota.vercel.app/](https://nakul-iota.vercel.app/)
+- 👨‍💻 Portfolio - [https://nakul-iota.vercel.app/](https://nakul-iota.vercel.app/)
 
 - 📫 How to reach me **Email :- thakurnakul119@gmail.com, IG : https://www.instagram.com/nakul.thakur.3551/**
 
