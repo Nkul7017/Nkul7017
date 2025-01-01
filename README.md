@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio - [https://nakul-iota.vercel.app/](https://nakul-iota.vercel.app/)
 
-- 📫 How to reach me **Email :- thakurnakul119@gmail.com, IG : https://www.instagram.com/nakul.thakur.3551/**
+- 📫 How to reach me **Email :- thakurnakul119@gmail.com, IG : https://www.instagram.com/tnakul17/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
