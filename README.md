@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mern Stack**
 
-- 🌱 I’m currently learning **Next Js , Flutter, React Native and data analyst tools**
+- 🌱 I’m currently learning **Next Js , Flutter, React Native, Devops and data analyst tools**
 
 - 👨‍💻 Portfolio - [https://nakul-iota.vercel.app/](https://nakul-iota.vercel.app/)
 
